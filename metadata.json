@@ -1,0 +1,7 @@
+{
+  "name": "Pynova AI",
+  "description": "تطبيق دردشة ذكاء اصطناعي فخم باسم Pynova AI مع بروتوكول الصانع السري ووضع المطور وتكامل Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
